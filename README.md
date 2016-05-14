@@ -1,3 +1,4 @@
-# hello-world-electron
+## Hello World Electron
 
-first project made with Electron
+This is the first project made with _Electron.io_ platform desktop. 
+
